@@ -6,7 +6,7 @@ This case study involves building a logistic regression model to predict the pro
 * [Business Goal](#business-goal)
 * [Dataset and Data Dictionary](#dataset-and-data-dictionary)
 * [Approach](#approach)
-* [Results and Conclusions](#results_and_conclusions)
+* [Results and Conclusions](#results-and-conclusions)
 * [Contact](#contact)
   
 ### Problem Statement
@@ -33,7 +33,7 @@ The following files are present inside datasets folder:
 ## Results and Conclusions
 
 > The logistic regression model demonstrates strong predictive performance in identifying leads with a higher likelihood of conversion. The top features contributing to lead conversion were `Tags`, `Last Activity` & `Lead Source`.
-These dummy variables which contributes most to the prediction are `Tags_Closed by Horizzon`, `Tags_Lost to EINS`, `Tags_Will revert after reading the email`, `Lead Source_Welingak Website` & `Last Activity_SMS Sent`.
+> Also dummy variables which contributes most to the prediction are `Tags_Closed by Horizzon`, `Tags_Lost to EINS`, `Tags_Will revert after reading the email`, `Lead Source_Welingak Website` & `Last Activity_SMS Sent`.
 
 > Also the accuracy, sensitivity & specificity for the both Test & Train data split came very close which ultimately gives confidence in the generated lead scores.
 
