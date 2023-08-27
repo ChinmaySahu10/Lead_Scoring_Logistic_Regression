@@ -31,9 +31,15 @@ The following files are present inside datasets folder:
 - Model Evaluation & Prediction
 
 ## Results and Conclusions
-The logistic regression model demonstrates strong predictive performance in identifying leads with a higher likelihood of conversion. The top features contributing to lead conversion include `Total Time Spent on Website`, `Lead Source_Welingak website`, `Lead Source_Reference`, `Last Activity_Email Opened`, and `Last Activity_SMS Sent`.
 
-The insights gained from this analysis can guide the company's lead management strategy by focusing on leads with higher predicted conversion probabilities. This targeted approach can lead to increased conversion rates, efficient resource allocation, and improved overall sales performance.
+> The logistic regression model demonstrates strong predictive performance in identifying leads with a higher likelihood of conversion. The top features contributing to lead conversion were `Tags`, `Last Activity` & `Lead Source`.
+These dummy variables which contributes most to the prediction are `Tags_Closed by Horizzon`, `Tags_Lost to EINS`, `Tags_Will revert after reading the email`, `Lead Source_Welingak Website` & `Last Activity_SMS Sent`.
+
+> Also the accuracy, sensitivity & specificity for the both Test & Train data split came very close which ultimately gives confidence in the generated lead scores.
+
+> The stakeholders shouldkeep these points in mind before taking any major decision going forward
+
+ 
 
 ## Contact
    
