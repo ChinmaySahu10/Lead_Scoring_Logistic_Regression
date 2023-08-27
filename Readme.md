@@ -37,8 +37,8 @@ The insights gained from this analysis can guide the company's lead management s
 
 ## Contact
    
--[GitHub](https://github.com/ChinmaySahu10) 
+[GitHub](https://github.com/ChinmaySahu10) 
   
--:[LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
+[LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
   
-- Email : chinmay11sahu@gmail.com
+Email : chinmay11sahu@gmail.com
