@@ -7,6 +7,7 @@ This case study involves building a logistic regression model to predict the pro
 * [Dataset and Data Dictionary](#dataset-and-data-dictionary)
 * [Approach](#approach)
 * [Results and Conclusions](#results_and_conclusions)
+* [Contact](#contact)
   
 ### Problem Statement
 > The company's lead conversion rate is currently suboptimal, and there is a need to develop a predictive model that can assign lead scores based on the probability of conversion. The ultimate goal is to improve the conversion rate and prioritize leads with higher potential for conversion.
@@ -35,9 +36,9 @@ The logistic regression model demonstrates strong predictive performance in iden
 The insights gained from this analysis can guide the company's lead management strategy by focusing on leads with higher predicted conversion probabilities. This targeted approach can lead to increased conversion rates, efficient resource allocation, and improved overall sales performance.
 
 ## Contact
-  GitHub : 
-- [Chinmay Sahu](https://github.com/ChinmaySahu10) 
-  Connect with me on LinkedIn:
-- [Chinmay Sahu](https://www.linkedin.com/in/chinmaysahu7/)
-  Email :
-- [Chinmay Sahu](chinmay11sahu@gmail.com)
+   
+- GitHub :[Chinmay Sahu](https://github.com/ChinmaySahu10) 
+  
+- LinkedIn: [Chinmay Sahu](https://www.linkedin.com/in/chinmaysahu7/)
+  
+- Email : [Chinmay Sahu](chinmay11sahu@gmail.com)
